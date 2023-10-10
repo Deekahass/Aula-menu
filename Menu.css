@@ -32,7 +32,7 @@ li{
 	border-bottom: 1px solid #555;
 }
 
-li: last-child{
+li last-child{
 	border-bottom: none;
 }
 
@@ -43,5 +43,6 @@ ul{
 	width: 25%;
 	background-color: #f1f1f1;
 	position: fixed;
-	overflow: auto;
+	overflow: auto ;
+
 }
